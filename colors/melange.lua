@@ -284,7 +284,7 @@ for name, attrs in pairs {
   -- DiagnosticSignOk = {},
 
   DiagnosticDeprecated = { DiagnosticUnderlineError },
-  DiagnosticUnnecessary = { undercurl = undercurl, sp = a.com },
+  DiagnosticUnnecessary = { fg = a.ui },
 
   ---- :help lsp-highlight -----------------------------------
 
